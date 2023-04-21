@@ -1,0 +1,28 @@
+
+html {
+  font-family: 'Bebas Neue', sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  display: flex;
+  min-height: 500px;
+  background: lightgoldenrodyellow;
+  justify-content: center;
+  align-items: center;
+  border: 30px solid lightseagreen;
+}
+
+h1 {
+  font-size: 120px;
+  color: lightseagreen
+}
+
+img {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
